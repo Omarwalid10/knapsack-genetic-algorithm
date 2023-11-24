@@ -1,0 +1,3 @@
+F:/Assignments/SoftComputing/knapsack/cmake-build-debug/CMakeFiles/knapsack.dir
+F:/Assignments/SoftComputing/knapsack/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Assignments/SoftComputing/knapsack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
