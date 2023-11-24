@@ -16,7 +16,7 @@ order to maximize the total value.
 4 4<br>
 6 6<br>
 5 3<br>
-15<br>
+15<br><br>
 5<br>
 12 4<br>
 1 2<br>
