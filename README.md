@@ -10,16 +10,16 @@ want to select the items to carry in the knapsack in
 order to maximize the total value.
 
 ## test case 
-2
-10
-3
-4 4
-6 6
-5 3
-15
-5
-12 4
-1 2
-4 10
-1 1
-2 2
+2<br>
+10<br>
+3<br>
+4 4<br>
+6 6<br>
+5 3<br>
+15<br>
+5<br>
+12 4<br>
+1 2<br>
+4 10<br>
+1 1<br>
+2 2<br>
