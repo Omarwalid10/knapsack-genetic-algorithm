@@ -187,8 +187,8 @@ void replacement() {
 }
 
 int main() {
-    freopen("input.txt", "rt", stdin);
-    freopen("output.txt", "wt", stdout);
+//    freopen("input.txt", "rt", stdin);
+//    freopen("output.txt", "wt", stdout);
     srand(time(NULL));
     int t,totalWeight=0,totalValue=0;
     cin >> t;
